@@ -1,0 +1,459 @@
+[33mWARN[0m[2024-04-10 14:05:46] not enable search                            
+[GIN] 2024/04/10 - 14:06:47 | 200 |     239.014µs |   192.168.0.234 | GET      "/"
+[GIN] 2024/04/10 - 14:06:47 | 200 |     314.152µs |   192.168.0.234 | GET      "/assets/index.15d8d646.css"
+[GIN] 2024/04/10 - 14:06:47 | 200 |   14.224279ms |   192.168.0.234 | GET      "/assets/index.29d84749.js"
+[GIN] 2024/04/10 - 14:06:47 | 200 |       385.6µs |   192.168.0.234 | GET      "/assets/entry.0118287f.js"
+[GIN] 2024/04/10 - 14:06:47 | 200 |    1.396724ms |   192.168.0.234 | GET      "/api/public/settings"
+[GIN] 2024/04/10 - 14:06:47 | 200 |     828.241µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:06:48 | 200 |     214.884µs |   192.168.0.234 | GET      "/assets/index.4949f55b.js"
+[GIN] 2024/04/10 - 14:06:48 | 200 |     161.889µs |   192.168.0.234 | GET      "/assets/index.a1e6f469.js"
+[GIN] 2024/04/10 - 14:06:48 | 200 |      31.485µs |   192.168.0.234 | GET      "/assets/webauthn-json.browser-ponyfill.1c672167.js"
+[GIN] 2024/04/10 - 14:07:05 | 200 |    1.483125ms |   192.168.0.234 | POST     "/api/auth/login/hash"
+[GIN] 2024/04/10 - 14:07:05 | 200 |     593.527µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:07:05 | 200 |      140.73µs |   192.168.0.234 | GET      "/assets/FolderTree.411cb0b3.js"
+[GIN] 2024/04/10 - 14:07:05 | 200 |     116.584µs |   192.168.0.234 | GET      "/assets/index.9d972213.js"
+[GIN] 2024/04/10 - 14:07:05 | 200 |     414.375µs |   192.168.0.234 | GET      "/assets/Layout.17a4679e.js"
+[GIN] 2024/04/10 - 14:07:05 | 200 |     260.849µs |   192.168.0.234 | GET      "/assets/index.af346f8e.js"
+[GIN] 2024/04/10 - 14:07:05 | 200 |      84.983µs |   192.168.0.234 | GET      "/api/public/offline_download_tools"
+[31mERRO[0m[2024-04-10 14:07:05] failed list /: storage not found; please add a storage first
+failed get storage 
+[GIN] 2024/04/10 - 14:07:05 | 200 |    1.710625ms |   192.168.0.234 | POST     "/api/fs/get"
+[31mERRO[0m[2024-04-10 14:07:05] failed list /: storage not found; please add a storage first
+failed get storage 
+[GIN] 2024/04/10 - 14:07:05 | 200 |     713.562µs |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:07:14 | 200 |     270.614µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:07:14 | 200 |     340.304µs |   192.168.0.234 | GET      "/assets/index.f6410444.js"
+[GIN] 2024/04/10 - 14:07:14 | 200 |     164.421µs |   192.168.0.234 | GET      "/assets/index.78f19831.js"
+[GIN] 2024/04/10 - 14:07:14 | 200 |     265.304µs |   192.168.0.234 | GET      "/assets/Profile.d80b1864.js"
+[GIN] 2024/04/10 - 14:07:20 | 200 |     114.705µs |   192.168.0.234 | GET      "/assets/Common.9b98d079.js"
+[GIN] 2024/04/10 - 14:07:20 | 200 |      53.433µs |   192.168.0.234 | GET      "/assets/ResponsiveGrid.8e769103.js"
+[GIN] 2024/04/10 - 14:07:20 | 200 |      77.896µs |   192.168.0.234 | GET      "/assets/item_type.be442da4.js"
+[GIN] 2024/04/10 - 14:07:20 | 200 |     133.944µs |   192.168.0.234 | GET      "/assets/SettingItem.1a2b953b.js"
+[GIN] 2024/04/10 - 14:07:20 | 200 |    1.106352ms |   192.168.0.234 | GET      "/api/admin/setting/list?group=1"
+[GIN] 2024/04/10 - 14:07:21 | 200 |      735.26µs |   192.168.0.234 | GET      "/api/admin/setting/list?group=2"
+[GIN] 2024/04/10 - 14:07:22 | 200 |     422.117µs |   192.168.0.234 | GET      "/api/admin/setting/list?group=3"
+[GIN] 2024/04/10 - 14:07:24 | 200 |     261.248µs |   192.168.0.234 | GET      "/assets/S3.4a890d0f.js"
+[GIN] 2024/04/10 - 14:07:24 | 200 |      96.177µs |   192.168.0.234 | GET      "/assets/_commonjs-dynamic-modules.30ae7933.js"
+[GIN] 2024/04/10 - 14:07:24 | 200 |     360.454µs |   192.168.0.234 | GET      "/assets/index.b3a45559.js"
+[GIN] 2024/04/10 - 14:07:24 | 200 |     651.998µs |   192.168.0.234 | GET      "/api/admin/setting/list?group=9"
+[GIN] 2024/04/10 - 14:07:29 | 200 |     129.165µs |   192.168.0.234 | GET      "/assets/Users.2ca5d127.js"
+[GIN] 2024/04/10 - 14:07:29 | 200 |      82.712µs |   192.168.0.234 | GET      "/assets/Wether.bda18dcc.js"
+[GIN] 2024/04/10 - 14:07:29 | 200 |     127.679µs |   192.168.0.234 | GET      "/assets/DeletePopover.0cd41628.js"
+[GIN] 2024/04/10 - 14:07:29 | 200 |    1.132076ms |   192.168.0.234 | GET      "/api/admin/user/list"
+[GIN] 2024/04/10 - 14:07:32 | 200 |      66.787µs |   192.168.0.234 | GET      "/assets/AddOrEdit.a1656b9f.js"
+[GIN] 2024/04/10 - 14:07:32 | 200 |     962.164µs |   192.168.0.234 | GET      "/api/admin/user/get?id=1"
+[31mERRO[0m[2024-04-10 14:07:36] failed list /: storage not found; please add a storage first
+failed get storage 
+[GIN] 2024/04/10 - 14:07:36 | 200 |     655.105µs |   192.168.0.234 | POST     "/api/fs/dirs"
+[31mERRO[0m[2024-04-10 14:07:37] failed list /: storage not found; please add a storage first
+failed get storage 
+[GIN] 2024/04/10 - 14:07:37 | 200 |     420.215µs |   192.168.0.234 | POST     "/api/fs/dirs"
+[31mERRO[0m[2024-04-10 14:07:41] failed list /: storage not found; please add a storage first
+failed get storage 
+[GIN] 2024/04/10 - 14:07:41 | 200 |     528.227µs |   192.168.0.234 | POST     "/api/fs/dirs"
+[GIN] 2024/04/10 - 14:07:47 | 200 |    1.029135ms |   192.168.0.234 | GET      "/assets/Storages.c2f9ee3b.js"
+[GIN] 2024/04/10 - 14:07:47 | 200 |     287.972µs |   192.168.0.234 | GET      "/api/admin/driver/names"
+[GIN] 2024/04/10 - 14:07:47 | 200 |    1.627698ms |   192.168.0.234 | GET      "/api/admin/storage/list"
+[GIN] 2024/04/10 - 14:07:49 | 200 |     199.824µs |   192.168.0.234 | GET      "/assets/AddOrEdit.32f755fb.js"
+[GIN] 2024/04/10 - 14:07:49 | 200 |    2.848403ms |   192.168.0.234 | GET      "/api/admin/driver/list"
+[GIN] 2024/04/10 - 14:09:08 | 200 |    2.862996ms |   192.168.0.234 | POST     "/api/admin/storage/create"
+[GIN] 2024/04/10 - 14:09:08 | 200 |     205.495µs |   192.168.0.234 | GET      "/api/admin/driver/names"
+[GIN] 2024/04/10 - 14:09:08 | 200 |    1.159905ms |   192.168.0.234 | GET      "/api/admin/storage/list"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     170.141µs |   192.168.0.234 | GET      "/"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     222.432µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     202.482µs |   192.168.0.234 | GET      "/api/public/settings"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     251.348µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     299.574µs |   192.168.0.234 | POST     "/api/fs/get"
+[GIN] 2024/04/10 - 14:09:14 | 200 |      41.787µs |   192.168.0.234 | GET      "/api/public/offline_download_tools"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     632.368µs |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     367.338µs |   192.168.0.234 | GET      "/assets/Folder.0456fa33.js"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     258.594µs |   192.168.0.234 | GET      "/assets/Folder.b511ba9e.css"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     169.188µs |   192.168.0.234 | GET      "/assets/icon.2e12486d.js"
+[GIN] 2024/04/10 - 14:09:14 | 200 |      91.879µs |   192.168.0.234 | GET      "/assets/Paginator.77393f87.js"
+[GIN] 2024/04/10 - 14:09:14 | 200 |    8.425633ms |   192.168.0.234 | GET      "/assets/video_box.4b2d8132.js"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     196.773µs |   192.168.0.234 | GET      "/assets/List.426a7639.js"
+[GIN] 2024/04/10 - 14:09:14 | 200 |      87.818µs |   192.168.0.234 | GET      "/assets/index.33f299fa.js"
+[GIN] 2024/04/10 - 14:09:14 | 200 |     218.554µs |   192.168.0.234 | GET      "/assets/helper.217664db.js"
+[GIN] 2024/04/10 - 14:09:15 | 200 |     830.215µs |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:09:17 | 200 |    1.914478ms |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:09:28 | 200 |    3.610884ms |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:09:35 | 200 |    1.061958ms |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:09:37 | 200 |    2.540112ms |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:09:39 | 200 |    1.031359ms |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:09:40 | 200 |    1.526295ms |   192.168.0.234 | POST     "/api/fs/get"
+[GIN] 2024/04/10 - 14:09:40 | 200 |     201.672µs |   192.168.0.234 | GET      "/assets/File.3cee378c.js"
+[GIN] 2024/04/10 - 14:09:43 | 200 |     441.524µs |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:09:46 | 200 |     218.444µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:09:49 | 200 |    1.201041ms |   192.168.0.234 | GET      "/api/admin/driver/names"
+[GIN] 2024/04/10 - 14:09:49 | 200 |    1.402556ms |   192.168.0.234 | GET      "/api/admin/storage/list"
+[GIN] 2024/04/10 - 14:09:51 | 200 |    1.107999ms |   192.168.0.234 | GET      "/api/admin/storage/get?id=1"
+[GIN] 2024/04/10 - 14:09:51 | 200 |     448.782µs |   192.168.0.234 | GET      "/api/admin/driver/info?driver=Local"
+[GIN] 2024/04/10 - 14:10:30 | 200 |    1.722261ms |   192.168.0.234 | POST     "/api/admin/storage/update"
+[GIN] 2024/04/10 - 14:10:30 | 200 |     188.153µs |   192.168.0.234 | GET      "/api/admin/driver/names"
+[GIN] 2024/04/10 - 14:10:30 | 200 |      997.58µs |   192.168.0.234 | GET      "/api/admin/storage/list"
+[GIN] 2024/04/10 - 14:10:36 | 200 |     136.988µs |   192.168.0.234 | GET      "/"
+[GIN] 2024/04/10 - 14:10:36 | 200 |     183.963µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:10:36 | 200 |      177.79µs |   192.168.0.234 | GET      "/api/public/settings"
+[GIN] 2024/04/10 - 14:10:36 | 200 |     146.623µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:10:36 | 200 |      32.516µs |   192.168.0.234 | GET      "/api/public/offline_download_tools"
+[GIN] 2024/04/10 - 14:10:36 | 200 |     484.625µs |   192.168.0.234 | POST     "/api/fs/get"
+[GIN] 2024/04/10 - 14:10:36 | 200 |     490.797µs |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:10:37 | 200 |     937.686µs |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:10:37 | 200 |     882.336µs |   192.168.0.234 | POST     "/api/fs/get"
+[GIN] 2024/04/10 - 14:10:38 | 200 |     396.622µs |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:10:42 | 200 |     429.108µs |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:10:43 | 200 |     587.243µs |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 14:10:47 | 200 |      228.75µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:10:52 | 200 |     248.504µs |   192.168.0.234 | GET      "/api/admin/driver/names"
+[GIN] 2024/04/10 - 14:10:52 | 200 |    1.223874ms |   192.168.0.234 | GET      "/api/admin/storage/list"
+[GIN] 2024/04/10 - 14:10:53 | 200 |     845.325µs |   192.168.0.234 | GET      "/api/admin/storage/get?id=1"
+[GIN] 2024/04/10 - 14:10:53 | 200 |     234.924µs |   192.168.0.234 | GET      "/api/admin/driver/info?driver=Local"
+[GIN] 2024/04/10 - 14:11:07 | 200 |    1.655592ms |   192.168.0.234 | POST     "/api/admin/storage/update"
+[GIN] 2024/04/10 - 14:11:07 | 200 |     225.679µs |   192.168.0.234 | GET      "/api/admin/driver/names"
+[GIN] 2024/04/10 - 14:11:07 | 200 |    1.122764ms |   192.168.0.234 | GET      "/api/admin/storage/list"
+[36mINFO[0m[2024-04-10 14:11:41] closing db                                   
+[33mWARN[0m[2024-04-10 14:14:18] not enable search                            
+[GIN] 2024/04/10 - 14:14:55 | 200 |     1.60169ms |   192.168.0.234 | GET      "/api/admin/setting/list?group=2"
+[GIN] 2024/04/10 - 14:14:56 | 200 |     963.435µs |   192.168.0.234 | GET      "/api/admin/setting/list?group=3"
+[GIN] 2024/04/10 - 14:14:57 | 200 |     155.259µs |   192.168.0.234 | GET      "/@manage/settings/preview"
+[GIN] 2024/04/10 - 14:14:57 | 200 |    1.335942ms |   192.168.0.234 | GET      "/api/public/settings"
+[GIN] 2024/04/10 - 14:14:57 | 200 |     395.297µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:14:57 | 200 |     218.874µs |   192.168.0.234 | GET      "/api/admin/setting/list?group=3"
+[GIN] 2024/04/10 - 14:15:00 | 200 |    1.347776ms |   192.168.0.234 | GET      "/api/admin/user/list"
+[GIN] 2024/04/10 - 14:15:03 | 200 |    1.014677ms |   192.168.0.234 | GET      "/api/admin/user/get?id=1"
+[GIN] 2024/04/10 - 14:15:19 | 200 |    1.692046ms |   192.168.0.234 | POST     "/api/me/update"
+[GIN] 2024/04/10 - 14:15:26 | 200 |    1.168545ms |   192.168.0.234 | POST     "/api/auth/login/hash"
+[GIN] 2024/04/10 - 14:15:26 | 200 |     248.976µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 14:15:30 | 200 |       96.05µs |   192.168.0.234 | GET      "/assets/Metas.7b4afa32.js"
+[GIN] 2024/04/10 - 14:15:30 | 200 |     959.722µs |   192.168.0.234 | GET      "/api/admin/meta/list"
+[GIN] 2024/04/10 - 14:15:31 | 200 |     197.026µs |   192.168.0.234 | GET      "/assets/backup-restore.849b332a.js"
+[GIN] 2024/04/10 - 14:15:31 | 200 |       60.38µs |   192.168.0.234 | GET      "/assets/About.18d42d7f.js"
+[36mINFO[0m[2024-04-10 14:15:59] closing db                                   
+[33mWARN[0m[2024-04-10 15:34:35] not enable search                            
+[GIN] 2024/04/10 - 15:34:44 | 200 |     226.251µs |   192.168.0.234 | GET      "/"
+[GIN] 2024/04/10 - 15:34:44 | 200 |    1.566399ms |   192.168.0.234 | GET      "/api/public/settings"
+[GIN] 2024/04/10 - 15:34:44 | 200 |    1.471466ms |   192.168.0.234 | GET      "/api/me"
+[31mERRO[0m[2024-04-10 15:34:44] fs/list: open /mnt/public: no such file or directory
+failed to list objs
+github.com/alist-org/alist/v3/internal/op.List.func1
+	/home/runner/work/alist/alist/internal/op/fs.go:127
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall.func2
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:193
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:195
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).Do
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:108
+github.com/alist-org/alist/v3/internal/op.List
+	/home/runner/work/alist/alist/internal/op/fs.go:124
+github.com/alist-org/alist/v3/internal/fs.list
+	/home/runner/work/alist/alist/internal/fs/list.go:25
+github.com/alist-org/alist/v3/internal/fs.List
+	/home/runner/work/alist/alist/internal/fs/fs.go:22
+github.com/alist-org/alist/v3/server/handles.FsGet
+	/home/runner/work/alist/alist/server/handles/fsread.go:320
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.Auth
+	/home/runner/work/alist/alist/server/middlewares/auth.go:73
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.StoragesLoaded
+	/home/runner/work/alist/alist/server/middlewares/check.go:14
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.CustomRecoveryWithWriter.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/recovery.go:102
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.LoggerWithConfig.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620
+github.com/gin-gonic/gin.(*Engine).ServeHTTP
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576
+net/http.serverHandler.ServeHTTP
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2938
+net/http.(*conn).serve
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2009
+runtime.goexit
+	/opt/hostedtoolcache/go/1.21.8/x64/src/runtime/asm_amd64.s:1650 
+[31mERRO[0m[2024-04-10 15:34:44] failed list /: open /mnt/public: no such file or directory
+failed to list objs
+github.com/alist-org/alist/v3/internal/op.List.func1
+	/home/runner/work/alist/alist/internal/op/fs.go:127
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall.func2
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:193
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:195
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).Do
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:108
+github.com/alist-org/alist/v3/internal/op.List
+	/home/runner/work/alist/alist/internal/op/fs.go:124
+github.com/alist-org/alist/v3/internal/fs.list
+	/home/runner/work/alist/alist/internal/fs/list.go:25
+github.com/alist-org/alist/v3/internal/fs.List
+	/home/runner/work/alist/alist/internal/fs/fs.go:22
+github.com/alist-org/alist/v3/server/handles.FsGet
+	/home/runner/work/alist/alist/server/handles/fsread.go:320
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.Auth
+	/home/runner/work/alist/alist/server/middlewares/auth.go:73
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.StoragesLoaded
+	/home/runner/work/alist/alist/server/middlewares/check.go:14
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.CustomRecoveryWithWriter.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/recovery.go:102
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.LoggerWithConfig.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620
+github.com/gin-gonic/gin.(*Engine).ServeHTTP
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576
+net/http.serverHandler.ServeHTTP
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2938
+net/http.(*conn).serve
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2009
+runtime.goexit
+	/opt/hostedtoolcache/go/1.21.8/x64/src/runtime/asm_amd64.s:1650
+failed get objs 
+[GIN] 2024/04/10 - 15:34:44 | 200 |    2.014831ms |   192.168.0.234 | POST     "/api/fs/get"
+[GIN] 2024/04/10 - 15:34:44 | 200 |     119.759µs |   192.168.0.234 | GET      "/api/public/offline_download_tools"
+[31mERRO[0m[2024-04-10 15:34:44] fs/list: open /mnt/public: no such file or directory
+failed to list objs
+github.com/alist-org/alist/v3/internal/op.List.func1
+	/home/runner/work/alist/alist/internal/op/fs.go:127
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall.func2
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:193
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:195
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).Do
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:108
+github.com/alist-org/alist/v3/internal/op.List
+	/home/runner/work/alist/alist/internal/op/fs.go:124
+github.com/alist-org/alist/v3/internal/fs.list
+	/home/runner/work/alist/alist/internal/fs/list.go:25
+github.com/alist-org/alist/v3/internal/fs.List
+	/home/runner/work/alist/alist/internal/fs/fs.go:22
+github.com/alist-org/alist/v3/server/handles.FsList
+	/home/runner/work/alist/alist/server/handles/fsread.go:86
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.Auth
+	/home/runner/work/alist/alist/server/middlewares/auth.go:73
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.StoragesLoaded
+	/home/runner/work/alist/alist/server/middlewares/check.go:14
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.CustomRecoveryWithWriter.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/recovery.go:102
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.LoggerWithConfig.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620
+github.com/gin-gonic/gin.(*Engine).ServeHTTP
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576
+net/http.serverHandler.ServeHTTP
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2938
+net/http.(*conn).serve
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2009
+runtime.goexit
+	/opt/hostedtoolcache/go/1.21.8/x64/src/runtime/asm_amd64.s:1650 
+[31mERRO[0m[2024-04-10 15:34:44] failed list /: open /mnt/public: no such file or directory
+failed to list objs
+github.com/alist-org/alist/v3/internal/op.List.func1
+	/home/runner/work/alist/alist/internal/op/fs.go:127
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall.func2
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:193
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:195
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).Do
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:108
+github.com/alist-org/alist/v3/internal/op.List
+	/home/runner/work/alist/alist/internal/op/fs.go:124
+github.com/alist-org/alist/v3/internal/fs.list
+	/home/runner/work/alist/alist/internal/fs/list.go:25
+github.com/alist-org/alist/v3/internal/fs.List
+	/home/runner/work/alist/alist/internal/fs/fs.go:22
+github.com/alist-org/alist/v3/server/handles.FsList
+	/home/runner/work/alist/alist/server/handles/fsread.go:86
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.Auth
+	/home/runner/work/alist/alist/server/middlewares/auth.go:73
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.StoragesLoaded
+	/home/runner/work/alist/alist/server/middlewares/check.go:14
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.CustomRecoveryWithWriter.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/recovery.go:102
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.LoggerWithConfig.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620
+github.com/gin-gonic/gin.(*Engine).ServeHTTP
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576
+net/http.serverHandler.ServeHTTP
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2938
+net/http.(*conn).serve
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2009
+runtime.goexit
+	/opt/hostedtoolcache/go/1.21.8/x64/src/runtime/asm_amd64.s:1650
+failed get objs 
+[GIN] 2024/04/10 - 15:34:44 | 200 |     1.01121ms |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 15:34:51 | 200 |     201.559µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 15:34:54 | 200 |     220.655µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 15:34:54 | 200 |      61.765µs |   192.168.0.234 | GET      "/api/public/offline_download_tools"
+[31mERRO[0m[2024-04-10 15:34:54] fs/list: open /mnt/public: no such file or directory
+failed to list objs
+github.com/alist-org/alist/v3/internal/op.List.func1
+	/home/runner/work/alist/alist/internal/op/fs.go:127
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall.func2
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:193
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:195
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).Do
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:108
+github.com/alist-org/alist/v3/internal/op.List
+	/home/runner/work/alist/alist/internal/op/fs.go:124
+github.com/alist-org/alist/v3/internal/fs.list
+	/home/runner/work/alist/alist/internal/fs/list.go:25
+github.com/alist-org/alist/v3/internal/fs.List
+	/home/runner/work/alist/alist/internal/fs/fs.go:22
+github.com/alist-org/alist/v3/server/handles.FsList
+	/home/runner/work/alist/alist/server/handles/fsread.go:86
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.Auth
+	/home/runner/work/alist/alist/server/middlewares/auth.go:73
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.StoragesLoaded
+	/home/runner/work/alist/alist/server/middlewares/check.go:14
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.CustomRecoveryWithWriter.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/recovery.go:102
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.LoggerWithConfig.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620
+github.com/gin-gonic/gin.(*Engine).ServeHTTP
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576
+net/http.serverHandler.ServeHTTP
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2938
+net/http.(*conn).serve
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2009
+runtime.goexit
+	/opt/hostedtoolcache/go/1.21.8/x64/src/runtime/asm_amd64.s:1650 
+[31mERRO[0m[2024-04-10 15:34:54] failed list /: open /mnt/public: no such file or directory
+failed to list objs
+github.com/alist-org/alist/v3/internal/op.List.func1
+	/home/runner/work/alist/alist/internal/op/fs.go:127
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall.func2
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:193
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).doCall
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:195
+github.com/alist-org/alist/v3/pkg/singleflight.(*Group[...]).Do
+	/home/runner/work/alist/alist/pkg/singleflight/singleflight.go:108
+github.com/alist-org/alist/v3/internal/op.List
+	/home/runner/work/alist/alist/internal/op/fs.go:124
+github.com/alist-org/alist/v3/internal/fs.list
+	/home/runner/work/alist/alist/internal/fs/list.go:25
+github.com/alist-org/alist/v3/internal/fs.List
+	/home/runner/work/alist/alist/internal/fs/fs.go:22
+github.com/alist-org/alist/v3/server/handles.FsList
+	/home/runner/work/alist/alist/server/handles/fsread.go:86
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.Auth
+	/home/runner/work/alist/alist/server/middlewares/auth.go:73
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/alist-org/alist/v3/server/middlewares.StoragesLoaded
+	/home/runner/work/alist/alist/server/middlewares/check.go:14
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.CustomRecoveryWithWriter.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/recovery.go:102
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.LoggerWithConfig.func1
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240
+github.com/gin-gonic/gin.(*Context).Next
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620
+github.com/gin-gonic/gin.(*Engine).ServeHTTP
+	/home/runner/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576
+net/http.serverHandler.ServeHTTP
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2938
+net/http.(*conn).serve
+	/opt/hostedtoolcache/go/1.21.8/x64/src/net/http/server.go:2009
+runtime.goexit
+	/opt/hostedtoolcache/go/1.21.8/x64/src/runtime/asm_amd64.s:1650
+failed get objs 
+[GIN] 2024/04/10 - 15:34:54 | 200 |    1.187925ms |   192.168.0.234 | POST     "/api/fs/list"
+[GIN] 2024/04/10 - 15:35:13 | 200 |     288.521µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 15:35:16 | 200 |     284.253µs |   192.168.0.234 | GET      "/assets/indexes.704d95a6.js"
+[GIN] 2024/04/10 - 15:35:16 | 200 |      865.23µs |   192.168.0.234 | GET      "/api/admin/index/progress"
+[GIN] 2024/04/10 - 15:35:16 | 200 |    1.101046ms |   192.168.0.234 | GET      "/api/admin/setting/list?group=6"
+[GIN] 2024/04/10 - 15:35:16 | 200 |     1.03196ms |   192.168.0.234 | GET      "/api/admin/meta/list"
+[GIN] 2024/04/10 - 15:35:17 | 200 |     236.292µs |   192.168.0.234 | GET      "/api/admin/driver/names"
+[GIN] 2024/04/10 - 15:35:17 | 200 |    1.494486ms |   192.168.0.234 | GET      "/api/admin/storage/list"
+[GIN] 2024/04/10 - 15:35:17 | 200 |     852.758µs |   192.168.0.234 | GET      "/api/admin/user/list"
+[GIN] 2024/04/10 - 15:35:18 | 200 |     114.301µs |   192.168.0.234 | GET      "/assets/offline_download.35b91fdd.js"
+[GIN] 2024/04/10 - 15:35:18 | 200 |     235.317µs |   192.168.0.234 | GET      "/assets/Tasks.287c5394.js"
+[GIN] 2024/04/10 - 15:35:19 | 200 |     341.276µs |   192.168.0.234 | GET      "/api/admin/task/offline_download/undone"
+[GIN] 2024/04/10 - 15:35:19 | 200 |      183.88µs |   192.168.0.234 | GET      "/api/admin/task/offline_download/done"
+[GIN] 2024/04/10 - 15:35:19 | 200 |     121.772µs |   192.168.0.234 | GET      "/api/admin/task/offline_download_transfer/done"
+[GIN] 2024/04/10 - 15:35:19 | 200 |     108.714µs |   192.168.0.234 | GET      "/api/admin/task/offline_download_transfer/undone"
+[GIN] 2024/04/10 - 15:35:19 | 200 |      90.984µs |   192.168.0.234 | GET      "/assets/Upload.08210099.js"
+[GIN] 2024/04/10 - 15:35:19 | 200 |     144.391µs |   192.168.0.234 | GET      "/api/admin/task/upload/undone"
+[GIN] 2024/04/10 - 15:35:19 | 200 |     146.601µs |   192.168.0.234 | GET      "/api/admin/task/upload/done"
+[GIN] 2024/04/10 - 15:35:20 | 200 |     148.511µs |   192.168.0.234 | GET      "/api/admin/task/offline_download/undone"
+[GIN] 2024/04/10 - 15:35:20 | 200 |     177.264µs |   192.168.0.234 | GET      "/api/admin/task/offline_download/done"
+[GIN] 2024/04/10 - 15:35:20 | 200 |     222.744µs |   192.168.0.234 | GET      "/api/admin/task/offline_download_transfer/undone"
+[GIN] 2024/04/10 - 15:35:20 | 200 |     219.104µs |   192.168.0.234 | GET      "/api/admin/task/offline_download_transfer/done"
+[GIN] 2024/04/10 - 15:35:22 | 200 |      253.86µs |   192.168.0.234 | GET      "/api/admin/task/offline_download/undone"
+[GIN] 2024/04/10 - 15:35:22 | 200 |     178.299µs |   192.168.0.234 | GET      "/api/admin/task/offline_download_transfer/undone"
+[GIN] 2024/04/10 - 15:35:23 | 200 |     177.337µs |   192.168.0.234 | GET      "/api/admin/task/upload/undone"
+[GIN] 2024/04/10 - 15:35:23 | 200 |     144.868µs |   192.168.0.234 | GET      "/api/admin/task/upload/done"
+[GIN] 2024/04/10 - 15:35:23 | 200 |      31.117µs |   192.168.0.234 | GET      "/assets/Copy.c9a2e1db.js"
+[GIN] 2024/04/10 - 15:35:23 | 200 |     152.635µs |   192.168.0.234 | GET      "/api/admin/task/copy/undone"
+[GIN] 2024/04/10 - 15:35:23 | 200 |     146.837µs |   192.168.0.234 | GET      "/api/admin/task/copy/done"
+[GIN] 2024/04/10 - 15:35:25 | 200 |     189.901µs |   192.168.0.234 | GET      "/api/admin/task/copy/undone"
+[GIN] 2024/04/10 - 15:35:26 | 200 |     640.686µs |   192.168.0.234 | GET      "/api/admin/setting/list?group=9"
+[GIN] 2024/04/10 - 15:35:27 | 200 |     142.723µs |   192.168.0.234 | GET      "/assets/Other.23700081.js"
+[GIN] 2024/04/10 - 15:35:27 | 200 |     670.333µs |   192.168.0.234 | GET      "/api/admin/setting/list?groups=5,0"
+[GIN] 2024/04/10 - 15:35:35 | 200 |     837.479µs |   192.168.0.234 | GET      "/api/admin/setting/list?group=3"
+[GIN] 2024/04/10 - 15:35:36 | 200 |     610.835µs |   192.168.0.234 | GET      "/api/admin/setting/list?group=2"
+[GIN] 2024/04/10 - 15:35:36 | 200 |     666.916µs |   192.168.0.234 | GET      "/api/admin/setting/list?group=1"
+[GIN] 2024/04/10 - 15:35:46 | 200 |     474.853µs |   192.168.0.234 | POST     "/api/auth/login/hash"
+[GIN] 2024/04/10 - 15:35:46 | 200 |     152.773µs |   192.168.0.234 | GET      "/api/me"
+[GIN] 2024/04/10 - 15:44:05 | 200 |      196.03µs |   192.168.0.153 | GET      "/"
